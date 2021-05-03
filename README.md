@@ -1,2 +1,2 @@
 # kaggle-notebooks
-Technoques for use in kaggle
+Techniques of ML for use in kaggle competitions
